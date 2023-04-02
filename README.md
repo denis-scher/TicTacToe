@@ -1,6 +1,6 @@
 # TicTacToe
 
-TicTacToe game I implemented using Java with the purpose of learning the language.
+A tic-tac-toe game I implemented using Java with the purpose of learning the language.
 I implemented the opponents AI using the Minimax algorithm.  This algorithm was covered in "Fundamentals of artificial intelligence and its applications"  (course 096210 at the Technion) I took this semester.
 
 The game has no graphics except for basic terminal outputs:
